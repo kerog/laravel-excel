@@ -1,7 +1,7 @@
 {
-    "name": "cyber-duck/laravel-excel",
+    "name": "kerogos/laravel-excel",
     "type": "library",
-    "description": "This package provides a way to export an Eloquent collection as an excel file and to import a Excel file as an Eloquent collection.",
+    "description": "This package provides a way to export an Eloquent collection as an excel file and to import a Excel file as an Eloquent collection for laravel-5.x",
     "keywords": ["laravel", "excel", "exporter", "export", "importer", "import", "eloquent", "spout"],
     "license": "MIT",
     "authors": [
